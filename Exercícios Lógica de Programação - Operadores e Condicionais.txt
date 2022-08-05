@@ -1,0 +1,25 @@
+Exercícios Lógica de Programação
+
+1. Peça para o usuário digitar dois números e mostre na tela qual é o menor e qual é o maior.
+
+2. Leia os nomes e alturas de duas pessoas e, em seguida, imprima na tela os dados da pessoa mais alta.
+
+3. Peça para o usuário entrar com um número e verifique se ele é par ou ímpar, informando o resultado na tela.
+Observação: para o número ser par, o resto de sua divisão por dois deverá ser igual a zero.
+
+4. Crie um programa que solicite ao usuário o valor da temperatura ambiente.
+O programa deve então exibir uma mensagem na tela de acordo com a temperatura
+digitada, como segue:
+Temperatura maior ou igual a 25 graus -> Está muito quente!
+Temperatura menor que 25 graus -> Está agradável!
+
+5. Leia os anos de nascimento de duas pessoas e depois calcule suas idades (aproximadas). Em seguida, imprima o nome e a idade de cada uma delas na tela e indique qual delas é a mais nova.
+
+6. Crie um programa que solicite ao usuário seu nome e idade atuais.
+O programa deve então exibir mensagens na tela de acordo com a idade do usuário, como segue:
+-Caso o usuário tenha menos de 18 anos, exibir a mensagem "Você ainda é muito novo!"
+-Se ele tiver mais de 18 anos, o programa deve calcular quantos anos faltam para sua aposentadoria por idade, e então exibir a mensagem "Fulano, ainda faltam x anos para você se aposentar!"
+Onde: Fulano = nome digitado pelo usuário e x = número de anos calculado.
+
+7. Uma empresa dá um prêmio aos funcionários que cumprem uma meta de vendas de produtos. Para cada funcionário, foi estabelecido um valor a ser alcançado.
+Crie um algoritmo para ler o valor determinado da meta em Reais e o valor de vendas realizadas por um funcionário. Depois, mostre na tela a mensagem "Ganhou!" (caso o funcionário tenha conseguido o prêmio) e "Não ganhou!" (caso ele não tenha conseguido).
